@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/biryani-rani/static/css/main.78da5906.css",
+    "main.js": "/biryani-rani/static/js/main.20bd1815.js",
+    "static/media/masala.jpg": "/biryani-rani/static/media/masala.2d2e2aef950ccaedca2a.jpg",
+    "static/media/single.png": "/biryani-rani/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/biryani-rani/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/biryani-rani/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/biryani-rani/index.html",
+    "main.78da5906.css.map": "/biryani-rani/static/css/main.78da5906.css.map",
+    "main.20bd1815.js.map": "/biryani-rani/static/js/main.20bd1815.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78da5906.css",
+    "static/js/main.20bd1815.js"
+  ]
+}
