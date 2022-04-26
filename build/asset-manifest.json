@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/prep4nine/static/css/main.3448f80e.css",
+    "main.js": "/prep4nine/static/js/main.737ba98b.js",
+    "static/media/laptop.jpg": "/prep4nine/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/prep4nine/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/prep4nine/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/prep4nine/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/prep4nine/index.html",
+    "main.3448f80e.css.map": "/prep4nine/static/css/main.3448f80e.css.map",
+    "main.737ba98b.js.map": "/prep4nine/static/js/main.737ba98b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3448f80e.css",
+    "static/js/main.737ba98b.js"
+  ]
+}
